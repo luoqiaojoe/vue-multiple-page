@@ -4,7 +4,7 @@
 
 <script>
 export default {
-  name: 'cpn'
+  name: 'cpn',
   data(){
     return {
       msg: 'test'
