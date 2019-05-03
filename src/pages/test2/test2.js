@@ -1,5 +1,5 @@
 import Vue from 'Vue'
-import test from './test.vue'
+import test from './test2.vue'
 
 /* eslint-disable no-new */
 new Vue({

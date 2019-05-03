@@ -1,6 +1,7 @@
 <template>
     <div id="app">
        <cpn></cpn>
+       <a href="test2.html">test2</a>
     </div>
 </template>
 
